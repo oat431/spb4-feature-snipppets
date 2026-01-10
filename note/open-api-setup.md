@@ -1,5 +1,7 @@
 # Setup OpenAPI for Spring Boot Application
 
+dependency official website: [springdoc-openapi](https://springdoc.org/)
+
 1. Add This Dependency
 
    If you're using Maven, add the following dependency to your `pom.xml` file:
@@ -28,10 +30,11 @@
 
    ```properties
     springdoc.swagger-ui.path=/api-ui
-    springdoc.swagger-ui.try-it-out-enabled=true
-    springdoc.swagger-ui.filter=true
-    springdoc.swagger-ui.operations-sorter=alpha
-    springdoc.swagger-ui.tags-sorter=alpha
+    springdoc.swagger-ui.try-it-out-enabled=true # enable "Try it out" button
+    springdoc.swagger-ui.filter=true # enable search box
+    springdoc.swagger-ui.operations-sorter=alpha # sort operations alphabetically
+    springdoc.swagger-ui.tags-sorter=alpha # sort tags alphabetically
+    springdoc.swagger-ui.syntax-highlight.theme=monokai # set syntax highlight theme
     springdoc.api-docs.path=/api-docs
     springdoc.show-actuator=true
    ```
@@ -46,6 +49,8 @@
         filter: true
         operations-sorter: alpha
         tags-sorter: alpha
+        syntax-highlight:
+          theme: monokai
       api-docs:
         path: /api-docs
       show-actuator: true
