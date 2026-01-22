@@ -4,13 +4,12 @@ These snippets cover a range of functionalities (all functionalities is listed b
 (all snippets does not required any database or object storage just core function).
 
 ### Features Included
-- JWT Authentication
-- Redirect HTTPS to HTTPS
-- Global Exception Handling
-- Logging Configuration
-- Health Checks with Actuator
-- Swagger/OpenAPI Documentation
+- Redirect HTTPS to HTTPS ✅
+- Global Exception Handling 
+- Logging Configuration 
+- Health Checks with Actuator ✅
+- Swagger/OpenAPI Documentation ✅
 - Race Condition Handling
-- Standard Object Templating
+- Standard Object Templating ✅
 - GraphQL Support
 - WebSocket Support
