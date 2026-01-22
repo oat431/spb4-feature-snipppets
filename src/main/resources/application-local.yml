@@ -1,2 +1,14 @@
 server:
   port: 8080
+
+management:
+  info:
+    env:
+      enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: health,info, metrics, features
+  endpoint:
+    health:
+      show-details: always
