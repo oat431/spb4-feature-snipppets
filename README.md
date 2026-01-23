@@ -5,7 +5,7 @@ These snippets cover a range of functionalities (all functionalities is listed b
 
 ### Features Included
 - Redirect HTTPS to HTTPS ✅
-- Global Exception Handling 
+- Global Exception Handling ✅ 
 - Logging Configuration 
 - Health Checks with Actuator ✅
 - Swagger/OpenAPI Documentation ✅
