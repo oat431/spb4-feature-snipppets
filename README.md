@@ -9,7 +9,8 @@ These snippets cover a range of functionalities (all functionalities is listed b
 - Logging Configuration 
 - Health Checks with Actuator ✅
 - Swagger/OpenAPI Documentation ✅
-- Race Condition Handling
 - Standard Object Templating ✅
 - GraphQL Support
 - WebSocket Support
+- gRPC Support
+- Event Hook Support 
