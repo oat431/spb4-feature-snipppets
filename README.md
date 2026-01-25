@@ -10,7 +10,7 @@ These snippets cover a range of functionalities (all functionalities is listed b
 - Health Checks with Actuator ✅
 - Swagger/OpenAPI Documentation ✅
 - Standard Object Templating ✅
-- GraphQL Support
+- GraphQL Support ✅
 - WebSocket Support
 - gRPC Support
 - Event Hook Support 
