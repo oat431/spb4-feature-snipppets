@@ -11,6 +11,6 @@ These snippets cover a range of functionalities (all functionalities is listed b
 - Swagger/OpenAPI Documentation ✅
 - Standard Object Templating ✅
 - GraphQL Support ✅
-- WebSocket Support
+- WebSocket Support ✅
 - gRPC Support
 - Event Hook Support 
