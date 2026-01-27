@@ -13,4 +13,4 @@ These snippets cover a range of functionalities (all functionalities is listed b
 - GraphQL Support ✅
 - WebSocket Support ✅
 - gRPC Support
-- Event Hook Support 
+- Event Hook Support ✅ 
