@@ -12,5 +12,5 @@ These snippets cover a range of functionalities (all functionalities is listed b
 - Standard Object Templating ✅
 - GraphQL Support ✅
 - WebSocket Support ✅
-- gRPC Support
+- gRPC Support ✅
 - Event Hook Support ✅ 
